@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/u/0/my-drive" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://drive.google.com/drive/u/0/my-drive">
 ![Alt text](https://raw.githubusercontent.com/NimaRaeisi/NimaRaeisi/(https://drive.google.com/drive/u/0/my-drive))
 
 ### Hi there 👋
