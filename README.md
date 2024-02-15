@@ -9,6 +9,7 @@ Experience:
 📈 Data Analysis and Visualization: Harnessing the power of Python to analyze and visualize hydrogeological data, uncovering valuable insights to inform decision-making processes.
 
 💻 Groundwater Modeling: Proficient in utilizing industry-standard software such as Modflow and Feflow to simulate groundwater flow, contaminant transport, and remediation strategies.
+![github stats](https://github-readme-stats.vercel.app/api?username=NimaRaeisi&show_icons=true&theme=radical)
 
 <!--
 **NimaRaeisi/NimaRaeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
