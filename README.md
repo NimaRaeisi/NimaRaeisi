@@ -1,5 +1,6 @@
 ### Hi there 👋
 💫 About Me:
+
 As a PhD student in Civil Engineering, specializing in geotechnical and hydrogeological engineering at the University of Calgary, I am driven by a relentless curiosity to understand the intricate dynamics of groundwater–permafrost systems and their interaction with the environment. My academic journey — spanning geology, hydrogeology, machine learning, and advanced numerical modeling — has equipped me to tackle complex hydrogeological and geotechnical challenges in cold-regions environments.
 
 Experience:
